@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TsekeMaila
 - 👀 I’m interested in machine learning and web apps.
-- 🌱 I’m currently learning python and ways to manipulate data for business intelligence.
+- 🌱 I’m currently working on Python, JavaScript and C++ projects.
 - 💞️ I’m looking to collaborate on AI and Machine Learning projects.
 
 <!---
