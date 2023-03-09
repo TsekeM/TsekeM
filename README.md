@@ -2,9 +2,7 @@
 
 # I enjoy a challenge and I express that in my work!
 
+# Languages
+![PythonPoweredGIF](https://user-images.githubusercontent.com/47187842/224000371-4b7cb0c2-f400-462d-b8f8-4da8236b0f32.gif)
 
-
-- 👀 I’m interested in machine learning and web apps.
-- 🌱 I’m currently working on Python, JavaScript and C++ projects.
-- 💞️ I’m looking to collaborate on AI and Machine Learning projects.
 
