@@ -2,9 +2,6 @@
 
 # I enjoy a challenge and I express that in my work!
 
-# Languages
-
-https://www.python.org/
 
 
 
