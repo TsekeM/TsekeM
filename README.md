@@ -6,11 +6,19 @@
   <img src="https://visitcount.itsvg.in/api?id=TsekeMaila&label=Profile%20Views&pretty=false" />
 </a>
 
-## Programming languages
-- Python
+## Programming languages and tools
+- Python <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 - JavaScript
 - C++
 - React
+- HTML
+- CSS
+- Bootstrap
+- Streamlit
+- Flask
+- APIs
+- Google colab
+- Jupyter notebook
 
 
 
