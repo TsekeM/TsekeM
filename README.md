@@ -6,6 +6,12 @@
   <img src="https://visitcount.itsvg.in/api?id=TsekeMaila&label=Profile%20Views&pretty=false" />
 </a>
 
+## Programming languages
+- Python
+- JavaScript
+- C++
+- React
+
 
 
 
