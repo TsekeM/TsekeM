@@ -7,7 +7,7 @@
 </a>
 
 ## Programming languages and tools
-- Python https://icons8.com/icon/l75OEUJkPAk4/python
+- Python 
 - JavaScript
 - C++
 - React
