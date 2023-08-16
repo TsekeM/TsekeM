@@ -16,3 +16,12 @@ Welcome to my GitHub profile! I'm a passionate developer skilled in a variety of
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-EE6363?style=flat-square&logo=google-colab)
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-orange?style=flat-square&logo=jupyter)
 
+## Some of my favorite projects:
+
+- **Project Name 1** - https://github.com/TsekeM/my-gpt(#)
+- **Project Name 2** - https://github.com/TsekeM/NVidea-stocks-(#)
+
+---
+
+![Tseke's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+
