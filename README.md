@@ -18,8 +18,8 @@ Welcome to my GitHub profile! I'm a passionate developer skilled in a variety of
 
 ## Some of my favorite projects:
 
-- **Project Name 1** - https://github.com/TsekeM/my-gpt(#)
-- **Project Name 2** - https://github.com/TsekeM/NVidea-stocks-(#)
+- **My GPT** - https://github.com/TsekeM/my-gpt(#)
+- **Nvidia stocks** - https://github.com/TsekeM/NVidea-stocks-(#)
 
 ---
 
