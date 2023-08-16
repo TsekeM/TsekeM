@@ -23,5 +23,5 @@ Welcome to my GitHub profile! I'm a passionate developer skilled in a variety of
 
 ---
 
-![Tseke's GitHub stats](https://github-readme-stats.vercel.app/api?TsekeM=TsekeM&show_icons=true&theme=radical)
+![Tseke's GitHub stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical)
 
