@@ -19,9 +19,6 @@ Welcome to my GitHub profile! I'm a passionate developer skilled in a variety of
 
 ## Some of my favorite projects:
 
-- **My GPT** - https://github.com/TsekeM/my-gpt(#)
-- **Nvidia stocks** - https://github.com/TsekeM/NVidea-stocks-(#)
-
 ---
 
 
