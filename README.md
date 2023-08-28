@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate developer skilled in a variety of
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![Tailwind](https://img.shields.io/badge/-Tailwind-563D7C?style=flat-square&logo=bootstrap)
+![Tailwind](https://img.shields.io/badge/-Tailwind-563D7C?style=flat-square&logo=tailwind)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![API](https://img.shields.io/badge/-API-0298C3?style=flat-square)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
