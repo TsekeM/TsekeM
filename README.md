@@ -19,8 +19,6 @@ Welcome to my GitHub profile! I'm a passionate developer skilled in a variety of
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-EE6363?style=flat-square&logo=google-colab)
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-orange?style=flat-square&logo=jupyter)
 
-## Some of my favorite projects:
-
 ---
 
 
