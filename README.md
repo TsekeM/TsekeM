@@ -18,7 +18,6 @@ Welcome to my GitHub profile! I'm a passionate developer skilled in a variety of
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-EE6363?style=flat-square&logo=google-colab)
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-orange?style=flat-square&logo=jupyter)
-
 ---
 
 
