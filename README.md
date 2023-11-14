@@ -1,5 +1,5 @@
 # Hello, I'm Tseke Maila! 👋
-Welcome to my GitHub profile! I'm a passionate developer skilled in a variety of languages and tools.
+Welcome to my GitHub profile! I'm a passionate developer skilled in a variety of programming languages and tools.
 
 ## Languages and Tools:
 
